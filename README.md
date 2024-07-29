@@ -11,6 +11,9 @@ It also focuses 🎯on performance of leading parties and candidates across key 
 
 Insights 💡:
  📌 BJP has won maximum number of 240 seats in Lok Sabha election.
+ 
  📌 Party-wise result pie chart illustrates BJP holds the majority seat distribution with 56.21% followed by Congress with 23.19%.
+ 
  📌 There are total of 543 constituencies and and 9871 contestants.
+ 
  📌 Vishakhapatnam is the highest margin by constituency with 504.25k votes.
